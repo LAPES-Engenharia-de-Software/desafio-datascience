@@ -17,6 +17,8 @@ Caso tenha alguma dúvida, nós estamos disponíveis no email *caio.johnston.s@g
 
 O crescimento de supermercados nas grandes cidades está cada vez maior, juntamente com a quantidade de dados que eles produzem. Um conjunto de dados dos registros históricos de vendas de uma linha de supermercados, registrados em três filiais diferentes ao longo de três meses, foi disponibilizado para que você ajude o gerente a visualizar seus dados e solucionar questionamentos sobre as vendas da sua empresa.
 
+Acesse o Dataset da empresa [clicando aqui](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales).
+
 # 📋 Instruções
 
 Chegou a hora de colocar a mão na massa! 🎉
