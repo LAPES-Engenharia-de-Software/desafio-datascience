@@ -56,6 +56,8 @@ Aqui está a lista de demandas.
 - Utilizar a biblioteca 'powerbiclient' para gerar um gráfico de sua escolha no Power BI.
 - Gerar 3 tomadas de decisão que o gerente do supermercado deveria adotar para alavancar os negócios.
 
+# 🤖 Desafio Extra
+- Desenvolva uma rede neural para prever as vendas de um produto com base em suas características. Utilize uma divisão adequada entre conjunto de treinamento e teste, e avalie o desempenho do modelo.
 ---
 
 _O desafio acima foi cuidadosamente construído para propósitos de avaliação apenas._
